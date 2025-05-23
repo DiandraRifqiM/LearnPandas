@@ -1,0 +1,13 @@
+﻿day,city,temprature,windspeed,event
+5/23/2025,Jakarta,32,6,rain
+7/22/2025,Jakarta,36,7,sunny
+9/20/2025,Tokyo,28,12,snow
+11/19/2025,Tokyo,33,7,sunny
+1/18/2026,New York,90,5,sunny
+3/19/2026,New York,85,12,fog
+5/18/2026,Los Angeles,87,15,fog
+7/17/2026,Los Angeles,92,5,rain
+9/15/2026,Berlin,45,20,sunny
+11/14/2026,Berlin,50,13,cloudy
+1/13/2027,Paris,54,8,cloudy
+3/14/2027,Paris,42,10,cloudy
