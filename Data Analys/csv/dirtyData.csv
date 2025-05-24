@@ -1,0 +1,51 @@
+TransactionID,Date,Account,Description,Type,Amount,Category
+10000,1/15/2025,Cash,Product Sale,Credit,1093.44,Sales
+10001,17-01-2025,bank,VAT payment,debit,204.62,Tax
+10002,1/9/2025,CreditCard,Stationery,Debit,661.91,Supplies
+10003,1/20/2025,Cash,refund,CREDIT,-50,Sales
+10004,,Bank,Office rent,Debit,1200,Rent
+10005,1/25/2025,Cash,Late fee,Debit,15.5,Charges
+10006,1/30/2025,Credit Card,Equipment,debit,,Supplies
+10007,2/1/2025,Cash,Product Sale,Credit,2200,Sales
+10008,1/2/2025,Bank,VAT payment,Debit,300.75,Tax
+10009,2/10/2025,Credit Card,Equipment,credit,missing,Supplies
+10010,2/12/2025,cash,Product Sale,Credit,1500,Sales
+10011,13/02/2025,Bank,VAT payment,Debit,100,Tax
+10012,2/15/2025,Credit Card,Stationery,Debit,200,Supplies
+10013,2/20/2025,Cash,refund,Credit,3500,Sales
+10014,2/25/2025,bank,Office rent,debit,120,Rent
+10015,3/1/2025,Cash,Late fee,Debit,750,Charges
+10016,3/3/2025,Credit Card,Equipment,credit,1300,Supplies
+10017,3/5/2025,Bank,Product Sale,Credit,400,Sales
+10018,3/10/2025,Cash,VAT payment,Debit,80,Tax
+10019,3/15/2025,Credit Card,Stationery,debit,90,Supplies
+10020,3/20/2025,bank,refund,Credit,45,Sales
+10021,3/25/2025,Cash,Office rent,Debit,1800,Rent
+10022,25-03-2025,Credit Card,Late fee,Debit,900,Charges
+10023,3/30/2025,Bank,Equipment,Credit,500,Supplies
+10024,4/1/2025,Cash,Product Sale,debit,1600,Sales
+10025,,Bank,VAT payment,Debit,2500,Tax
+10026,4/5/2025,Credit Card,Stationery,Debit,1000,Supplies
+10027,4/10/2025,Cash,refund,Credit,,Sales
+10028,10/4/2025,Bank,Office rent,Debit,700,Rent
+10029,4/15/2025,Credit Card,Late fee,debit,850,Charges
+10030,4/20/2025,Cash,Equipment,Credit,400,Supplies
+10031,4/25/2025,Bank,Product Sale,Debit,310,Sales
+10032,25-04-2025,Credit Card,VAT payment,Debit,780,Tax
+10033,4/30/2025,Cash,Stationery,Credit,1350,Supplies
+10034,5/1/2025,bank,refund,Debit,600,Sales
+10035,5/5/2025,Cash,Office rent,Debit,25,Rent
+10036,5/5/2025,Bank,Late fee,Credit,1300,Charges
+10037,5/10/2025,Credit Card,Equipment,Debit,100,Supplies
+10038,5/15/2025,Cash,Product Sale,Debit,90,Sales
+10039,5/20/2025,Bank,VAT payment,Debit,160,Tax
+10040,5/25/2025,Stationery,Stationery,Debit,1200,Supplies
+10041,5/30/2025,Cash,refund,Credit,800,Sales
+10042,30-05-2025,Bank,Office rent,Debit,900,Rent
+10043,6/1/2025,Credit Card,Late fee,Credit,2200,Charges
+10044,6/5/2025,Cash,Equipment,Debit,300,Supplies
+10045,6/6/2025,Bank,Product Sale,Credit,1050,Sales
+10046,6/10/2025,Credit Card,VAT payment,Debit,200,Tax
+10047,6/15/2025,Cash,Stationery,Debit,150,Supplies
+10048,15/06/2025,Bank,refund,Credit,3200,Sales
+10049,6/20/2025,Cash,Office rent,Debit,410,Rent
